@@ -13,6 +13,7 @@
     "slidev-theme-unicorn": "^1.1.1"
   },
   "devDependencies": {
-    "@iconify-json/uim": "^1.1.2"
+    "@iconify-json/uim": "^1.1.2",
+    "playwright-chromium": "^1.26.1"
   }
 }

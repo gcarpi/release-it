@@ -18,7 +18,7 @@ logoHeader: '/logo.png'
 ---
 
 # Introdução
-Antes de falarmos sobre a ferramenta *Release It!*, precisamos entender algumas coisas: O que é **versionamento** e o que são **releases**.
+Antes de falarmos sobre a ferramenta *Release It!* precisamos entender algumas coisas: O que é **versionamento** e o que são **releases**.
 
 ---
 logoHeader: '/logo.png'
@@ -39,7 +39,7 @@ logoHeader: '/logo.png'
 ---
 
 # Regras do Versionamento Semântico
-Diante do número de versão (ex: *1.0.0*) incremente-o utilizando as regras: (1)__MAJOR__.(0)__MINOR__.(0)__PATCH__:
+Diante do número de versão (ex: *1.0.0*) incremente-o utilizando as regras: __MAJOR__.__MINOR__.__PATCH__:
 
 1. **MAJOR**:&nbsp;Quando há funcionalidades incompatíveis com as versões anteriores do sistema;
 2. **MINOR**:&nbsp;&nbsp;Quando há funcionalidades adicionadas ao sistema porém com compatibilidade com as versões anteriores;
@@ -106,7 +106,7 @@ class: 'text-center'
 ---
 
 # Notas de lançamento
-Abrange todas as alterações realizadas naquele release
+Abrange todas as alterações realizadas naquela versão
 
 ---
 layout: image-center
