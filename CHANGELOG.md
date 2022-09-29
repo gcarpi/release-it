@@ -4,10 +4,10 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/),
 e este projeto adere ao [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+<!-- ## [Unreleased]
 ### Adicionado
-- Adicionada biblioteca `release-it` e plugin `@release-it/keep-a-changelog`.
+- Adicionada biblioteca `release-it` e plugin `@release-it/keep-a-changelog`. -->
 
-## [1.0.0] - 2022-09-20
+## [Unreleased]
 ### Adicionado
 - Primeira versão do projeto.
